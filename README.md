@@ -1,1 +1,0 @@
-# android_device_samsung_exynos2100-common
